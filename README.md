@@ -1,4 +1,4 @@
-# 100-DAYS-OF-JAVASCRIPT-
+# 100-DAYS-OF-JAVASCRIPT
 
 DAY 1 - COUNTER APP --> https://100-days-of-js-counter.netlify.app/
 
