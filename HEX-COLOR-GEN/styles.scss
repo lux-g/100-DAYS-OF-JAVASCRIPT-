@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+$marginBottom20: 20px;
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    &__title {
+        margin-bottom: $marginBottom20;
+    }
+    &__hex-num {
+        margin-bottom: $marginBottom20;
+    }
+    &__gen-btn {
+        padding: 10px;
+    }
+}
