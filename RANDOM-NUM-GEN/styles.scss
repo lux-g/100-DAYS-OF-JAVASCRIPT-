@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #121212;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.wrapper {
+    background-color: #005388;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    padding: 50px;
+    h1, h2 {
+        margin-bottom: 20px;
+    }
+}
+.gen-btn {
+    padding: 10px;
+    background-color: #121212;
+    color: white;
+    border: none;
+}
