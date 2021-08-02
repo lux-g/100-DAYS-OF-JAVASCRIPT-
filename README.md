@@ -10,3 +10,5 @@ DAY 4 - MODAL --> https://100-days-of-js-modal.netlify.app/
 
 DAY 5 - PALINDROME CHECKER --> https://100-days-of-js-palindrome-checker.netlify.app/
 
+DAY-6 - VOWEL CHECKER --> https://100-days-of-js-vowel-checker.netlify.app/
+
