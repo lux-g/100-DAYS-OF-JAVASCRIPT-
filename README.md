@@ -8,3 +8,5 @@ DAY 3 - RANDOM NUMBER GENERATOR --> https://100-days-of-js-random-num-gen.netlif
 
 DAY 4 - MODAL --> https://100-days-of-js-modal.netlify.app/
 
+DAY 5 - PALINDROME CHECKER --> https://100-days-of-js-palindrome-checker.netlify.app/
+
