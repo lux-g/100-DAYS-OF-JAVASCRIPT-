@@ -6,5 +6,5 @@ DAY 2 - RANDOM HEX COLOR GENERTOR --> https://100-days-of-js-hex-color-gen.netli
 
 DAY 3 - RANDOM NUMBER GENERATOR --> https://100-days-of-js-random-num-gen.netlify.app/
 
-DAY 4 - MODAL -->
+DAY 4 - MODAL --> https://100-days-of-js-modal.netlify.app/
 
