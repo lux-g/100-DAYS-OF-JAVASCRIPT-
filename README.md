@@ -12,3 +12,5 @@ DAY 5 - PALINDROME CHECKER --> https://100-days-of-js-palindrome-checker.netlify
 
 DAY-6 - VOWEL CHECKER --> https://100-days-of-js-vowel-checker.netlify.app/
 
+DAY 7 - COPY & PASTE TEXT --> https://100-days-of-js-copy-paste-text.netlify.app/ (navigator.clipboard.readText()) doesnt work in firefox
+
