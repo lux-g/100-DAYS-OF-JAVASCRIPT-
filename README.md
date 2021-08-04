@@ -14,3 +14,5 @@ DAY-6 - VOWEL CHECKER --> https://100-days-of-js-vowel-checker.netlify.app/
 
 DAY 7 - COPY & PASTE TEXT --> https://100-days-of-js-copy-paste-text.netlify.app/ (navigator.clipboard.readText()) doesnt work in firefox
 
+DAY-8 - INPUT CHARACTER COUNT --> https://100-days-of-js-input-character-counter.netlify.app/
+
