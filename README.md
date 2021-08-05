@@ -17,3 +17,5 @@ DAY 7 - COPY & PASTE TEXT --> https://100-days-of-js-copy-paste-text.netlify.app
 DAY-8 - INPUT CHARACTER COUNT --> https://100-days-of-js-input-character-counter.netlify.app/
 
 DAY-9 - HTTP REQUESTS GET USERS --> https://100-days-of-js-http-requests-getusers.netlify.app/
+
+DAY-10 - QUOTE GENERATOR --> https://100-days-of-js-quote-generator.netlify.app/
