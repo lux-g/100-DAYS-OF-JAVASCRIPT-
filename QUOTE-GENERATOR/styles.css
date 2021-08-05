@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*VARIABLES*/
+:root {
+    --marginBottom: 10px;
+}
+
+
+
+h1 {
+    margin-bottom: var(--marginBottom)
+}
+.quote-btn {
+    margin-bottom: var(--marginBottom);
+}
+.office-quote {
+    margin-bottom: var(--marginBottom);
+}
+.name {
+    font-style: italic;
+}
