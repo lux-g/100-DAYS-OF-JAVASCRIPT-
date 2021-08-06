@@ -19,3 +19,5 @@ DAY-8 - INPUT CHARACTER COUNT --> https://100-days-of-js-input-character-counter
 DAY-9 - HTTP REQUESTS GET USERS --> https://100-days-of-js-http-requests-getusers.netlify.app/
 
 DAY-10 - QUOTE GENERATOR --> https://100-days-of-js-quote-generator.netlify.app/
+
+DAY-11 GET SET NUMBER OF QUOTES --> https://100-days-of-js-set-number-of-quotes.netlify.app/
