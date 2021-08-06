@@ -20,4 +20,4 @@ DAY-9 - HTTP REQUESTS GET USERS --> https://100-days-of-js-http-requests-getuser
 
 DAY-10 - QUOTE GENERATOR --> https://100-days-of-js-quote-generator.netlify.app/
 
-DAY-11 GET SET NUMBER OF QUOTES --> https://100-days-of-js-set-number-of-quotes.netlify.app/
+DAY-11 - GET SET NUMBER OF QUOTES --> https://100-days-of-js-set-number-of-quotes.netlify.app/
