@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.quote-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.quotes-container {
+    margin: 10px 0px;
+}
+.quotes-container p {
+    font-style: italic;
+}
