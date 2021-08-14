@@ -23,3 +23,5 @@ DAY-10 - QUOTE GENERATOR --> https://100-days-of-js-quote-generator.netlify.app/
 DAY-11 - GET SET NUMBER OF QUOTES --> https://100-days-of-js-set-number-of-quotes.netlify.app/
 
 DAY-12 - WEATHER APP --> https://100-days-of-js-weather-app.netlify.app/
+
+DAY-13 - DYNAMIC SEARCH -->
