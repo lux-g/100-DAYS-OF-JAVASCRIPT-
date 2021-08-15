@@ -25,3 +25,5 @@ DAY-11 - GET SET NUMBER OF QUOTES --> https://100-days-of-js-set-number-of-quote
 DAY-12 - WEATHER APP --> https://100-days-of-js-weather-app.netlify.app/
 
 DAY-13 - DYNAMIC SEARCH --> https://100-days-of-js-dynamic-search.netlify.app/
+
+DAY-14 - DYNAMIC SEARCH FROM API ==> https://100-days-of-js-dynamic-search-from-api.netlify.app/
