@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #171717;
+    color: white;
+}
+.nav-container {
+    background-color: transparent;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    transition: all 300ms ease-in-out;
+}
+nav {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+}
+nav li {
+    margin: 10px;
+}
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.add-stuff {
+    background-color: white;
+    color: #171717;
+}
