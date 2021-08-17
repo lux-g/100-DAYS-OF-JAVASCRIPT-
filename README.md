@@ -26,4 +26,6 @@ DAY-12 - WEATHER APP --> https://100-days-of-js-weather-app.netlify.app/
 
 DAY-13 - DYNAMIC SEARCH --> https://100-days-of-js-dynamic-search.netlify.app/
 
-DAY-14 - DYNAMIC SEARCH FROM API ==> https://100-days-of-js-dynamic-search-from-api.netlify.app/
+DAY-14 - DYNAMIC SEARCH FROM API --> https://100-days-of-js-dynamic-search-from-api.netlify.app/
+
+DAY-15 - SMOOTH-SCROLL-SCROLLINTOVIEW --> https://100-days-of-javascript-smooth-scroll.netlify.app/
