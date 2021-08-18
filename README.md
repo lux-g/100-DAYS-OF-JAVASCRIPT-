@@ -31,3 +31,5 @@ DAY-14 - DYNAMIC SEARCH FROM API --> https://100-days-of-js-dynamic-search-from-
 DAY-15 - SMOOTH-SCROLL-SCROLLINTOVIEW --> https://100-days-of-javascript-smooth-scroll.netlify.app/
 
 DAY-16 - STICKY NAV BAR SCROLL --> https://100-days-of-js-sticky-navbar-scroll.netlify.app/
+
+DAY-17 - ACTIVE MENU SWITCHER --> https://100-days-of-js-active-menu-switcher.netlify.app/
