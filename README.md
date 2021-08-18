@@ -33,3 +33,5 @@ DAY-15 - SMOOTH-SCROLL-SCROLLINTOVIEW --> https://100-days-of-javascript-smooth-
 DAY-16 - STICKY NAV BAR SCROLL --> https://100-days-of-js-sticky-navbar-scroll.netlify.app/
 
 DAY-17 - ACTIVE MENU SWITCHER --> https://100-days-of-js-active-menu-switcher.netlify.app/
+
+DAY-18 - SCROLL TO TOP --> https://100-days-of-js-scroll-to-top.netlify.app/
