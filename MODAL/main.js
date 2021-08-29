@@ -8,13 +8,12 @@ const closeBtn = document.querySelector('.close-btn');
 openBtn.addEventListener('click', ()=> {
     //OPEN MODAL
     modalBg.classList.add('active')
-    modal.classList.add('modal-open')
 });
 
 modalBg.addEventListener('click', (e)=> {
-    const isOutside = !e.target.closest('.modal')
-    console.log(isOutside)
-    if(isOutside || e.target === closeBtn) {
-        modalBg.classList.remove('active') 
+    const isOutSide = !e.target.closest('.modal')
+    if(isOutSide || e.target === closeBtn) {
+        modalBg.classList.remove('active')
     }
 })
+
