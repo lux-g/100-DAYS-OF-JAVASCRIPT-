@@ -41,3 +41,5 @@ DAY-19 - RESPONSIVE SITE WITH MOBILE NAV-MENU --> https://100-days-of-js-respons
 DAY-20 - DRAGGABLE SLIDER WITH MOMENTUM SCROLL --> https://100-days-of-js-draggable-slider.netlify.app/
 
 DAY-21 - TO DO APP --> https://100-days-of-js-to-do-app.netlify.app/
+
+DAY-22 - SCROLL INDICATOR --> https://app.netlify.com/sites/100-days-of-js-scroll-indicator/settings/general
