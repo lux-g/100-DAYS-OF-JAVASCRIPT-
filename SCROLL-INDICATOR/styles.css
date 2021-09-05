@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.section {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100vh;
+  font-size: 18px;
+}
+
+.section__one {
+  background-color: #141414;
+  color: white;
+}
+
+.section__two {
+  background-color: blueviolet;
+  color: white;
+}
+
+.section__three {
+  background-color: #292929;
+  color: white;
+}
+
+.line {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 8px;
+  background-color: white;
+  -webkit-transition: all 200ms ease-out;
+  transition: all 200ms ease-out;
+}
+/*# sourceMappingURL=styles.css.map */
