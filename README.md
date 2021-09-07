@@ -42,4 +42,4 @@ DAY-20 - DRAGGABLE SLIDER WITH MOMENTUM SCROLL --> https://100-days-of-js-dragga
 
 DAY-21 - TO DO APP --> https://100-days-of-js-to-do-app.netlify.app/
 
-DAY-22 - SCROLL INDICATOR --> https://app.netlify.com/sites/100-days-of-js-scroll-indicator/settings/general
+DAY-22 - SCROLL INDICATOR --> https://100-days-of-js-scroll-indicator.netlify.app/
